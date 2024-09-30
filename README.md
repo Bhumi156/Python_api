@@ -2,16 +2,6 @@
 
 This is a simple CRUD (Create, Read, Update, Delete) application built with Flask and SQLite. It allows users to manage a collection of items.
 
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Output](#output)
-- [License](#license)
-
 ## Features
 
 - Create a new item
@@ -27,10 +17,11 @@ Make sure you have the following installed on your machine:
 - Python 3.x
 - pip (Python package installer)
 
-## Installation
+## Output
 
-1. Clone the repository:
+name:[Textbox]
+price:[Textbox]
 
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+Table of database:
+|Name|Price|Actions|
+|Tshirts|600|[Tshirts]|[600]|[updatebutton][deletebutton]
