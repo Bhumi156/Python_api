@@ -1,6 +1,6 @@
 # Flask CRUD Application
 
-This is a simple CRUD (Create, Read, Update, Delete) application built with Flask and SQLite. It allows users to manage a collection of items.
+This is a simple python CRUD (Create, Read, Update, Delete) application built with Flask and SQLite. It allows users to manage and add data of product details.
 
 ## Features
 
