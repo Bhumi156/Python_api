@@ -22,3 +22,9 @@ Table of database:
 | Tshirts  | 600       | [Tshirts][600][update_button][delete_button]
 | Jeans    | 1000      | [Jeans][600][update_button][delete_button]
 
+## Dependencies
+
+This project requires the following Python packages:
+- **Flask**:This is python framework for used to build the web application.
+- **SQLite**: A tool for handling SQLite database migrations for Flask applications.
+- **Flask-RESTful**: An extension for Flask that adds support for quickly building REST APIs.
