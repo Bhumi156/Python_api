@@ -10,18 +10,15 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Flas
 - Delete items
 - Uses SQLite for data storage
 
-## Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- Python 3.x
-- pip (Python package installer)
-
 ## Output
 
-name:[Textbox]
-price:[Textbox]
+- name:[Textbox]
+- price:[Textbox]
+-    [add button]
 
 Table of database:
-|Name|Price|Actions|
-|Tshirts|600|[Tshirts]|[600]|[updatebutton][deletebutton]
+| Name     | Price     | Actions |
+| ---      | ---       | --      |
+| Tshirts  | 600       | [Tshirts][600][update_button][delete_button]
+| Jeans    | 1000      | [Jeans][600][update_button][delete_button]
+
